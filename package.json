@@ -1,0 +1,9 @@
+{
+  "name": "emoji-image-converter",
+  "version": "1.0.0",
+  "description": "Convert emoji Unicode/code colon/android code to image",
+  "main": "index.js",
+  "repository": "git@github.com:oyslin/emoji-image-converter.git",
+  "author": "Walt Ouyang <oyslin@163.com>",
+  "license": "MIT"
+}
